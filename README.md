@@ -15,7 +15,7 @@
 2. Search tree-view
 3. In tree-view, uncheck hide ignored names
 
-##Resources
+## Resources
  - <a href="https://learn.co/manual_setup">manual setup instructions</a>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/terminal-issues-reference'>Terminal Issues Reference</a> on Learn.co and start learning to code for free.</p>
