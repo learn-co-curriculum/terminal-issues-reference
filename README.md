@@ -16,6 +16,6 @@
 3. In tree-view, uncheck hide ignored names
 
 ## Resources
- - <a href="https://learn.co/manual_setup">manual setup instructions</a>
+ - <a href="https://help.learn.co/en/articles/900121-mac-osx-manual-environment-set-up">manual setup instructions</a>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/terminal-issues-reference'>Terminal Issues Reference</a> on Learn.co and start learning to code for free.</p>
